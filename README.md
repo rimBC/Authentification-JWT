@@ -10,7 +10,7 @@ Application web d'authentification développée dans le cadre d'un test techniqu
   - Hachage des mots de passe (bcrypt)
   - Gestion des erreurs et validation des entrées
 
-  ## 🛠️  Stack technique
+  ## Stack technique
 
   | Côté | Technologies |
   |------|-------------|
@@ -59,7 +59,7 @@ REFRESH_SECRET="fsgsaasghfsa87a6s87sa6"
 ACCESS_SECRET="dsjgjhghsd76d87sd687687687hgsdjgsjdh"
   ```
 
-  ## 📡 Endpoints de l'API
+  ## Endpoints de l'API
 
   | Méthode | Route | Description |
   |---------|-------|-------------|
